@@ -1,0 +1,29 @@
+{
+  "name": "node-wechat-message",
+  "version": "0.1.0",
+  "description": "wechat client message send module",
+  "main": "index.js",
+  "keywords": [
+    "wechat",
+    "node-wechat",
+    "weixin",
+    "node-weixin",
+    "wechat-message",
+    "weixin-message"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuncreate/node-wechat-message.git",
+    "homepage": "https://github.com/yuncreate/node-wechat-message",
+    "bugs": "https://github.com/yuncreate/node-wechat-message/issues"
+  },
+  "author": {
+    "name": "mengkeys",
+    "email": "mengkeys@hotmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "urllib": "^2.7.1",
+    "xml2js": "^0.4.16"
+  }
+}
